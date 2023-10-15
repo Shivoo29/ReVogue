@@ -56,6 +56,22 @@ NGO Partnerships: ReVogue partners with non-governmental organizations (NGOs) de
 User Dashboards: Users have access to personalized dashboards that display data-driven insights about their sustainability journey. The dashboard tracks a user's progress in adopting more eco-friendly fashion habits and participating in sustainability challenges.
 
 
+
+6) Teachable machine: Fabric Age Prediction Model
+Our model utilizes a powerful combination of deep learning techniques to analyze the texture, color, and other visual attributes of a piece of fabric. By processing these characteristics, it can accurately classify the fabric type and provide a prediction of how old the fabric is, giving you a glimpse into its potential history.
+
+Key Features
+Automatic Fabric Detection: Our model can recognize various fabric types, including cotton, silk, wool, and many more, making it versatile for different applications.
+
+Age Prediction: It estimates the age of the fabric, providing insights into its potential wear and tear or historical context.
+
+Self-Training: The model continuously learns and improves itself, ensuring that it stays up-to-date and accurate with evolving fabric types and patterns.
+
+How to Use
+Using our Fabric Age Prediction Model is easy and straightforward. You can integrate it into your own applications, analyze fabrics from images, or use it for research purposes. Simply provide an image of the fabric you want to analyze, and our model will take care of the rest. 
+https://teachablemachine.withgoogle.com/models/uOj3f1UCZ/
+
+
 Prerequisites
 
 Mobile or Web Platform: Users will need access to either a mobile device (for a mobile app) or a web browser (for a web app). Ensure your app is compatible with popular operating systems and browsers.
